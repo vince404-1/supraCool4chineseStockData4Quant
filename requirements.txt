@@ -1,0 +1,7 @@
+pandas==2.2.3
+tushare==1.4.21
+akshare==1.17.25
+tqdm==4.67.1
+openai==1.91.0
+numpy==1.26.4
+json-repair==0.48.0
